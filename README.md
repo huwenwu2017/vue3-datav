@@ -1,3 +1,4 @@
-# vue3+datav 自适应版本
-# 喜欢点赞
-# 首次记得install
+**效果图**
+<p>
+    <img src="../vuedatav/src/components/xiaoguo.png"/>
+</p>

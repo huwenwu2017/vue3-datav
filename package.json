@@ -13,6 +13,7 @@
     "axios": "^1.6.8",
     "echarts": "^5.5.0",
     "mockjs": "^1.1.0",
+    "postcss-px-to-viewport": "^1.1.1",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
     "vuex": "^4.0.0"
