@@ -1,6 +1,6 @@
 **效果图**
 <p>
-    <img src="https://img.picui.cn/free/2024/07/16/669642ef6493e.png"/>
+    <img src="https://img520.com/s6LQ1j.png"/>
 </p>
 
 ### 一，项目描述
